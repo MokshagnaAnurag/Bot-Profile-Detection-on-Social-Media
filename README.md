@@ -28,7 +28,7 @@ This project aims to **detect bot accounts** on social media using **machine lea
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Bot-Profile-Detection.git
+git clone https://github.com/MokshagnaAnurag/Bot-Profile-Detection-on-Social-Media-.git
 cd Bot-Profile-Detection
 ```
 
